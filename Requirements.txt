@@ -1,0 +1,8 @@
+The following software and dependencies are required to the code:
+
+--Anaconda
+--Jupyter Notebook
+--Pandas
+--Numpy
+--Matplotlib
+--Backtrader
